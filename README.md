@@ -1,6 +1,6 @@
 # IEEE-CIS_Fraud_Detection
 
-The purpose of this project is to predict the probability that an online transaction is fraudulent. 
+Predicting the probability that an online transaction is fraudulent, as denoted by the binary target isFraud.
 
 The data is broken into two files identity and transaction.
 
