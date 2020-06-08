@@ -33,7 +33,7 @@ For example, gourp by card1, get mean or std of ```TransactionAmt``` for each gr
 
 ### **Mapping Emails to keep only email Domain**
 
-## Model Training with **Hyperpt**
+## Model Training with **Hyperopt**
 * **XGBoost**  
 * **CatBoost**
 
