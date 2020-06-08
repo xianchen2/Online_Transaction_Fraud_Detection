@@ -1,8 +1,7 @@
 # IEEE-CIS_Fraud_Detection
 
-Predicting the probability that an online transaction is fraudulent, as denoted by the binary target isFraud.
-
-**Data Source** [Kaggle](https://www.kaggle.com/c/ieee-fraud-detection/data)
+Predicting the probability that an online transaction is fraudulent, as denoted by the binary target isFraud.  
+The dataset is from [Kaggle](https://www.kaggle.com/c/ieee-fraud-detection/data), containing 59,0540 rows and 433 features.
 
 ## Validation Strategy
 The timespan of the total data set is 365 days, where that of the training set is 182 days and that of the test set is 183 days. Thus, the validation strategy used in this project is **time-based validation**, training for the first 5 months and predicting the last month.
