@@ -30,7 +30,7 @@ For example, group by ```card1```, get mean or std of ```TransactionAmt``` for e
 * **Normalize D columns** to prevent them from increasing by time
 * **Convert ```TransactionDT``` into datetime** by providing a reference datetime
 
-### **Mapping Emails to keep only email Domain**
+### Mapping Emails to keep only Email Domain
 
 ## Model Training with **Hyperopt**
 * **XGBoost**  
