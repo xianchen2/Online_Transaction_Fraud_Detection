@@ -29,7 +29,7 @@ For example, gourp by card1, get mean or std of ```TransactionAmt``` for each gr
 
 ### **Process TimeDelta Features**  
 * **Normalize D columns** to prevent them from increasing by time
-* Convert ```TransactionDT``` into datetime by providing a reference datetime
+* **Convert ```TransactionDT``` into datetime** by providing a reference datetime
 
 ### **Mapping Emails to keep only email Domain**
 
