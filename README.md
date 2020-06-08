@@ -24,7 +24,7 @@ Feature A and B by themselves may not correlate with the target variable but Fea
 * **Frequency Encoding** for categorical features  
 Replace categorical values with corresponding frequency
 
-* **Group statistics ** 
+* **Group statistics**   
 For example, gourp by card1, get mean or std of ```TransactionAmt``` for each group. This can let the model know whether a row has abnormal ``TransactionAmt`` for their group.
 
 ### **Process TimeDelta Features**  
