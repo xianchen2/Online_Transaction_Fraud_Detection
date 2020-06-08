@@ -24,7 +24,7 @@ Feature A and B by themselves may not correlate with the target variable but Fea
 Replace categorical values with corresponding frequency
 
 * **Group statistics**   
-For example, group by card1, get mean or std of ```TransactionAmt``` for each group. This can let the model know whether a row has abnormal ``TransactionAmt`` for their group.
+For example, group by ```card1```, get mean or std of ```TransactionAmt``` for each group. This can let the model know whether a row has abnormal ``TransactionAmt`` for their group.
 
 ### **Process TimeDelta Features**  
 * **Normalize D columns** to prevent them from increasing by time
