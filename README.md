@@ -32,9 +32,10 @@ For example, group by ```card1```, get mean or std of ```TransactionAmt``` for e
 
 ### Mapping Emails to keep only Email Domain
 
-## Model Training with **Hyperopt**
+## Model Training 
 * **XGBoost**  
 * **CatBoost**
+* Parameter Tuning with **Hyperopt**
 
 
 
